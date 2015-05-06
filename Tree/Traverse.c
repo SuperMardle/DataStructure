@@ -1,3 +1,6 @@
+/** 
+ *  二叉树的创建与遍历
+ */ 
 #include <stdio.h>
 #include <stdlib.h>
 
